@@ -3,6 +3,7 @@
 ⠀
 ⠀
 ✅ **Aşağıdaki kısımları ayarlamayı unutmayın.**
+⠀
 ✅ **Don't forget to assemble the following parts.**
 ⠀
 {
