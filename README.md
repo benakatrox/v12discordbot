@@ -12,4 +12,4 @@
   "prefix": "PREFIX"
 }
 ⠀
-## Rar Şifresi: 2020ravelbotv12
+## Rar Şifresi (Rar Password): 2020ravelbotv12
